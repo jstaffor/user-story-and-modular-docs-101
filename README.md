@@ -42,4 +42,4 @@ master.adoc
 
 ----
 
-The repo has been tested downstream and will build using CCTUIL.
+The repo has been tested downstream and will build using CCTUIL. Run the `CCTUIL` command in the root folder (that is, against the *master.adoc* file).
