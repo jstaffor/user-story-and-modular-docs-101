@@ -1,5 +1,5 @@
 ----
-As the authour of this work, it is as far as I want to bring it at this point in time. Please respect the opensource Apache Version 2.0 License, and enjoy reading :)
+Please respect the opensource Apache Version 2.0 License, and enjoy reading :)
 ----
 
 # User story and modular docs 101
