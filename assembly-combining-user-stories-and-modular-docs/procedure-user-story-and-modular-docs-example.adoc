@@ -27,7 +27,7 @@ This section describes how to create an assembly similar to the  *User story and
 
 . Open the *reference-modular-docs-principle.adoc* file and add the contents from an reference component, for example, link:https://github.com/redhat-documentation/modular-docs/blob/master/modular-docs-manual/files/TEMPLATE_REFERENCE_reference-material.adoc[TEMPLATE_REFERENCE_reference-material.adoc].
 
-. Edit the *assembly-user-story-and-modular-docs-101.adoc* and include the *concept-user-story-and-modular-docs.adoc*, *reference-user-story-principle.adoc*, and *reference-user-story-principle.adoc* files.
+. Edit the *assembly-user-story-and-modular-docs-101.adoc* and include the *concept-user-story-and-modular-docs.adoc*, *reference-user-story-principle.adoc*, and *reference-modular-docs-principle.adoc* files.
 
 .Verification steps
 
