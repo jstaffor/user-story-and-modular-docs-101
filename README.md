@@ -23,7 +23,7 @@ include::./assembly-user-story-and-modular-docs-workflow/assembly-user-story-and
 //(4) <Enter a one-liner that describes the purpose of your assembly>
 <Include your assembly here>
 
-//(5) ***TODO*** - add your contribution
+//(5) \****TODO*** - add your contribution
 include::./assembly-your-contribution/assembly-your-contribution.adoc[leveloffset=+1]
 ----
 4) Create a username in the `upstream-resources/upstream-attributes.adoc` for example, `:jstaffor: jstaffor` and update _your_
