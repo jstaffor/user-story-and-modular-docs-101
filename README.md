@@ -15,7 +15,7 @@ If you want to add your own assembly, fork the repo and:
 
 1) Make a copy of the `assembly-your-contribution` folder and use this as a basis for contributing.
 2) Modify _your_ copy of the `assembly-your-contribution` folder and build it out in alignment with the existing repo structure.
-3) When you are ready to locally test your work, add it to the `master.adoc`, for example:
+3) When you are ready to locally test your work, add it to `master.adoc`, for example:
 ----
 //(3) Describes an *approach* that can be used when creating modular docs
 include::./assembly-user-story-and-modular-docs-workflow/assembly-user-story-and-modular-docs-workflow.adoc[leveloffset=+1]
