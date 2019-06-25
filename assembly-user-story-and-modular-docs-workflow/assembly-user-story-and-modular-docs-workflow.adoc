@@ -7,11 +7,13 @@ _Contribution made by:_ {jstaffor}
 
 include::concept-user-story-and-modular-docs-workflow.adoc[leveloffset=+2]
 
-include::analysis-user-story-and-modular-docs-workflow.adoc[leveloffset=+2]
+include::reference-analysis-user-story-and-modular-docs-workflow.adoc[leveloffset=+2]
 
-include::planning-user-story-and-modular-docs-workflow.adoc[leveloffset=+2]
+include::reference-planning-user-story-and-modular-docs-workflow.adoc[leveloffset=+2]
 
-include::execution-user-story-and-modular-docs-workflow.adoc[leveloffset=+2]
+include::reference-execution-user-story-and-modular-docs-workflow.adoc[leveloffset=+2]
+
+include::reference-workflow-iteration-example.adoc[leveloffset=+2]
 
 // Restore the context to what it was before this assembly.
 ifdef::parent-context[:context: {parent-context}]

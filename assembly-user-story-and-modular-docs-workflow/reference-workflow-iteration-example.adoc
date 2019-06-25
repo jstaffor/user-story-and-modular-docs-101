@@ -1,0 +1,14 @@
+[id="reference-workflow-iteration-example-{context}"]
+= Workflow iteration example
+
+== Result of the first iteration
+
+image::./upstream-resources/first-iteration.png[]
+
+== Result of the second iteration
+
+image::./upstream-resources/second-iteration.png[]
+
+== Result of the third iteration
+
+image::./upstream-resources/third-iteration.png[]
