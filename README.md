@@ -21,9 +21,10 @@ If you want to add your own assembly, fork the repo and:
 include::./assembly-user-story-and-modular-docs-workflow/assembly-user-story-and-modular-docs-workflow.adoc[leveloffset=+1]
 
 //(4) <Enter a one-liner that describes the purpose of your assembly>
-<Include your assembly here>
+---Include your assembly here---
 
 NOTE: Please leave the reference to `//(4) ***TODO*** - add your contribution` in the master.adoc
+
 ----
 4) Create a username in the `upstream-resources/upstream-attributes.adoc` for example, `:jstaffor: jstaffor` and update _your_
 new assembly so that the line `_Contribution made by:_ {user}` now displays _your_ username, for example, `_Contribution made by:_ {jstaffor}`. This is important for transparency and accountability purposes.
