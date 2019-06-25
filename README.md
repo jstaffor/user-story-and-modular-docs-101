@@ -21,7 +21,7 @@ If you want to add your own assembly, fork the repo and:
 include::./assembly-user-story-and-modular-docs-workflow/assembly-user-story-and-modular-docs-workflow.adoc[leveloffset=+1]
 
 //(4) <Enter a one-liner that describes the purpose of your assembly>
-include::./ ....................
+<Include your assembly here>
 
 //(5) ***TODO*** - add your contribution
 include::./assembly-your-contribution/assembly-your-contribution.adoc[leveloffset=+1]
@@ -31,7 +31,7 @@ new assembly so that the line `_Contribution made by:_ {user}` now displays _you
 
 5) Test that the repo builds locally. `CCTUIL` is the recommended tool.
 
-6) If the repo builds successfully, final create a PR and await a review :)
+6) If the repo builds successfully, finally create a PR and await a review :)
 
 # Directory structure
 
