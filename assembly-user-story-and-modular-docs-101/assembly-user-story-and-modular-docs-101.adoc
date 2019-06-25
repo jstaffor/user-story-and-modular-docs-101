@@ -1,5 +1,8 @@
 [id="assembly-working-with-user-stories-and-modular-docs"]
 = Working with user stories and modular docs
+
+_Contribution made by:_ {jstaffor}
+
 :context: assembly-working-with-user-stories-and-modular-docs
 
 include::concept-user-story-and-modular-docs.adoc[leveloffset=+2]

@@ -1,0 +1,16 @@
+[id="assembly-your-contribution"]
+= assembly-your-contribution
+
+_Contribution made by:_ {user}
+
+:context: assembly-your-contribution
+
+include::concept-your-contribution.adoc[leveloffset=+2]
+
+include::procedure-your-contribution.adoc[leveloffset=+2]
+
+include::reference-your-contribution.adoc[leveloffset=+2]
+
+// Restore the context to what it was before this assembly.
+ifdef::parent-context[:context: {parent-context}]
+ifndef::parent-context[:!context:]

@@ -9,3 +9,7 @@
 
 :DocInfoProductName: user_story_and_mod_docs
 :DocInfoProductNumber: 1.0
+
+// It's important the we are transparent in who does what AND that folks take accountability for their contribution!
+:jstaffor: jstaffor
+:user: username

@@ -1,0 +1,4 @@
+[id="concept-assembly-your-contribution-{context}"]
+= concept-assembly-your-contribution
+
+Create a link:https://github.com/redhat-documentation/modular-docs/blob/master/modular-docs-manual/files/TEMPLATE_CONCEPT_concept-explanation.adoc[concept template].

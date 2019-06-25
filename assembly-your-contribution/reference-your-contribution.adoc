@@ -1,0 +1,4 @@
+[id="reference-your-contribution-{context}"]
+= reference-your-contribution
+
+Create a link:https://github.com/redhat-documentation/modular-docs/blob/master/modular-docs-manual/files/TEMPLATE_REFERENCE_reference-material.adoc[reference template].

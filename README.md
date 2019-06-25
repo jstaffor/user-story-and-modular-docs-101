@@ -4,6 +4,7 @@ Please respect the opensource Apache Version 2.0 License, and enjoy reading :)
 
 # User story and modular docs 101
 Opensourced training material on user stories and modular docs.
+The repo has been tested downstream and will build using CCTUIL. Run the `CCTUIL` command in the root folder (that is, against the *master.adoc* file).
 
 # Directory structure:
 
@@ -41,5 +42,3 @@ master.adoc
     |____ planning-user-story-and-modular-docs-workflow.adoc
 
 ----
-
-The repo has been tested downstream and will build using CCTUIL. Run the `CCTUIL` command in the root folder (that is, against the *master.adoc* file).
